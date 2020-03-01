@@ -1,0 +1,3 @@
+%{
+  "state_server": {:hex, :state_server, "0.4.7", "cc2c3760f225db2058f6baeaed3821e9c1978e62426986a39cc738cd720c1175", [:mix], [], "hexpm"},
+}
